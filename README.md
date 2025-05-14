@@ -44,6 +44,8 @@ Auditlog: Detals system activities
 Meetings: Shows meeting details
 
 🔗 ERD Diagram
+![image](https://github.com/user-attachments/assets/4e036924-5d73-487b-8e21-fb705b958455)
+
 
 
 📂 Repository Structure
